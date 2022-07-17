@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="lms-handlers-coverage" />
+            <item index="1" class="java.lang.String" itemvalue="ozdatabase" />
+            <item index="2" class="java.lang.String" itemvalue="ozmodel" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="4" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="5" class="java.lang.String" itemvalue="ozlogger" />
+            <item index="6" class="java.lang.String" itemvalue="ozhamcrest" />
+            <item index="7" class="java.lang.String" itemvalue="lms-admin-api" />
+            <item index="8" class="java.lang.String" itemvalue="ozfaker" />
+            <item index="9" class="java.lang.String" itemvalue="ozrestclient" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
